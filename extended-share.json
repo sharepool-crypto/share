@@ -36,9 +36,8 @@
     "telegram-admin-handle": {
     },
     "adapools_ext": {
-    }
-},
-{
+    },
+    {
     "verification":"7ae19c28e68a042376",
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta.json",
     "info": {
