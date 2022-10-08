@@ -42,8 +42,8 @@
     "verification":"7ae19c28e68a042376",
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta.json",
     "info": {
-        "url_png_icon_64x64": "",
-        "url_png_logo": "",
+        "url_png_icon_64x64": "https://sharepool-crypto.github.io/share/share.png",
+        "url_png_logo": "https://sharepool-crypto.github.io/share/share.png",
         "location": "",
         "social": {
             "twitter_handle": "share_pool",
