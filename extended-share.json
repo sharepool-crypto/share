@@ -37,37 +37,4 @@
     },
     "adapools_ext": {
     },
-    {
-    "verification":"7ae19c28e68a042376",
-    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta.json",
-    "info": {
-        "url_png_icon_64x64": "https://sharepool-crypto.github.io/share/share.png",
-        "url_png_logo": "https://sharepool-crypto.github.io/share/share.png",
-        "location": "",
-        "social": {
-            "twitter_handle": "share_pool",
-            "telegram_handle": "share_pool",
-            "facebook_handle": "",
-            "youtube_handle": "",
-            "twitch_handle": "",
-            "discord_handle": "",
-            "github_handle": "",
-            "patreon_handle": "",
-            "linkedin_handle": "",
-            "ada_handle": "$share_pool"
-        },
-        "company": {
-            "name": "",
-            "addr": "",
-            "city": "",
-            "country": "",
-            "company_id": "",
-            "vat_id": ""
-        },
-        "about": {
-            "me": "...",
-            "server": "We maintain a set of cloud-based systems with high reliability to assure a close to a 24/7/365 up-time of our servers.",
-            "company": "Our Mission is sharing, as we thrive to provide optimal rewards to our delegators, we are giving away to charity and we share knowledge around the Cardano blockchain ecosystem."
-        }
-    }
 }
